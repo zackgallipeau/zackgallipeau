@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zackgallipeau
 - 👀 I’m interested in ... website and mobile app development
-- 🌱 I’m currently learning ... JavaScript and Swift
+- 🌱 I’m currently learning ... React
 - 📫 How to reach me ... zackgallipeau@icloud.com
 
 <!---
